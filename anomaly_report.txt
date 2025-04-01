@@ -1,0 +1,64 @@
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 3400, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 3400, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 387, 'status_code': 500, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 1160, 'status_code': 200, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 296, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 495, 'status_code': 503, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 141, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 155, 'status_code': 400, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 258, 'status_code': 400, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 100, 'status_code': 503, 'error_message': None}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 2447, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 2447, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 417, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 319, 'status_code': 400, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 442, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 497, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 158, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 383, 'status_code': 500, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 291, 'status_code': 400, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 104, 'status_code': 400, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 436, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 465, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 135, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 321, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 254, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 188, 'status_code': 503, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 333, 'status_code': 500, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 2443, 'status_code': 200, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 205, 'status_code': 500, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 134, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 226, 'status_code': 500, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 3512, 'status_code': 200, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 341, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 488, 'status_code': 400, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 123, 'status_code': 400, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 396, 'status_code': 400, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 1770, 'status_code': 200, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 4046, 'status_code': 200, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 263, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 150, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 496, 'status_code': 503, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 2822, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 2822, 'status_code': 503, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 2214, 'status_code': 200, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 500, 'status_code': 503, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 493, 'status_code': 503, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 1639, 'status_code': 200, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 353, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'payment_gateway', 'response_time': 283, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'data_fetch', 'response_time': 197, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'auth_service', 'response_time': 434, 'status_code': 503, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.024094', 'api_name': 'user_profile', 'response_time': 221, 'status_code': 503, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'auth_service', 'response_time': 1420, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'auth_service', 'response_time': 1420, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'auth_service', 'response_time': 406, 'status_code': 503, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'data_fetch', 'response_time': 472, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'data_fetch', 'response_time': 347, 'status_code': 400, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'auth_service', 'response_time': 218, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'user_profile', 'response_time': 485, 'status_code': 400, 'error_message': 'Timeout error'}
+High response time detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'auth_service', 'response_time': 2462, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'auth_service', 'response_time': 2462, 'status_code': 500, 'error_message': 'Timeout error'}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'user_profile', 'response_time': 184, 'status_code': 400, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'auth_service', 'response_time': 375, 'status_code': 400, 'error_message': None}
+Error detected: {'timestamp': '2025-04-01T16:17:49.025206', 'api_name': 'user_profile', 'response_time': 389, 'status_code': 500, 'error_message': 'Timeout error'}
